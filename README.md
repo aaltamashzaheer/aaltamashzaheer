@@ -22,4 +22,4 @@ Looking for a techie that is passionate about web development to outperform expe
 - ➥ Ability to make decisions, effectively lead tasks and meet challenging deadlines.
 - ➥ Strong communication abilities, both verbally and written.
 - 📫 Feel free to reach out to me :
-aaltamashzaheer@gmail.com
+- aaltamashzaheer@gmail.com
