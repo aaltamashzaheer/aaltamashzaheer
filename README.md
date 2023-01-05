@@ -6,18 +6,18 @@
  
 - 💬 Looking for a techie that is passionate about web development to outperform expectations ? Ping me NOW!
 
-- 📫 My skill set includes:
-- ➥ Frontend Development
-- ➥ Backend Development,
-- ➥ Technical Writer
-- ➥ Git and GitHub
-- ➥ Python 
-- ➥ Java
-- ➥ HTML
-- ➥ Bootstrap
-- ➥ JavaScript
-- ➥ Good Understanding of Fintech Domain and PCI DSS.
-- ➥ Ability to make decisions, effectively lead tasks and meet challenging deadlines.
-- ➥ Strong communication abilities, both verbally and written.
+- My skill set includes:
+➥ Frontend Development
+➥ Backend Development,
+➥ Technical Writer
+➥ Git and GitHub
+➥ Python 
+➥ Java
+➥ HTML
+➥ Bootstrap
+➥ JavaScript
+➥ Good Understanding of Fintech Domain and PCI DSS.
+➥ Ability to make decisions, effectively lead tasks and meet challenging deadlines.
+➥ Strong communication abilities, both verbally and written.
 
 - 📱 Feel free to reach out to me :   aaltamashzaheer@gmail.com
