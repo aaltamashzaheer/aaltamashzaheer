@@ -4,9 +4,9 @@
 
 - ⚡ I am a quick learner and an enthusiastic creator, and my can-do mentality has enabled me to get beyond obstacles while utilizing any new technology. I'm not limited to a set of technologies and am always ready to learn something new. Always eager and motivated to learn new things. Devoted to the field of interest. Supportive of teamwork, flexible in addressing project-related problems, and willing to go above and beyond to complete the task at hand good at comprehending and communicating.
  
-- 💬 Looking for a techie that is passionate about web development to outperform expectations ? Ping me NOW!
+- Looking for a techie that is passionate about web development to outperform expectations ? Ping me NOW!
 
-- My skill set includes:
+- 📈 My skill set includes:
 
 -  Frontend Development
 -  Backend Development,
