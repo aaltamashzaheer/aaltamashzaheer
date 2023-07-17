@@ -236,7 +236,7 @@ Stats|Streak|Languages
 ## Profile Views:
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/aaltamashzaheer/count.svg" />
+  
 </p>
 Footer
 © 2023 GitHub, Inc.
