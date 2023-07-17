@@ -235,6 +235,7 @@ Stats|Streak|Languages
 
 ## Profile Views:
 <p align="center"> 
+    <img src="https://profile-counter.glitch.me/aaltamashzaheer/count.svg" />
   Views<br>
   
 </p>
