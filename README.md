@@ -3,7 +3,7 @@
       <h1 color=#F7CC18FF> Hi there, I'm Altamash Zaheer👋<a href="#"></h1>
     </div>
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Microsoft+Student+Ambassador;ML+Intern+at+Netsol;Intern+at+Bytewise+Limited;Computer+Engineer+25*;Student+at+UET+Lahore;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Engineer+25*;Student+at+UET+Lahore;" alt="Typing SVG" /></a>
   </p>
 
 
@@ -15,13 +15,11 @@
 
 
 ## 🚀 About Me:
-- 🤝 **An AI Enthusiastic with a demonstrated history of working as an AI Intern having nearly 1 years of experience with high hands-on experience in Machine Learnig and a solid grip on Computer Vision.**
+- 🤝 **An AI/ML Enthusiastic with a solid grip on Computer Vision.**
 
 - 🌱 I’m currently learning **Generative AI, Computer Vision, and Neural Networks**
 
-- 💬 Ask me about **Python, C++, HTML, CSS, Java**
-
-- 📫 How to reach me **altamashzaheer01@gmail.com**
+- 📫 How to reach me **altamashzaheer@outlook.com**
 
 
 
